@@ -8,3 +8,31 @@ header, footer{
     height: 150px;
     background-color: darkcyan;
 }
+
+nav {
+    margin-left: 20px;
+}
+ul {
+    display: inline-flex;
+
+}
+/*List*/
+li {
+    list-style: none;
+    padding-right: 10px;
+}
+a {
+    color: black;
+}
+a :hover{
+    color: brown;
+}
+a :visited{
+    color: orange;
+
+
+main {
+    min-height:100% ;
+    top: 150%;
+    bottom: 150px;
+}
